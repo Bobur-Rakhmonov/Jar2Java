@@ -1,7 +1,5 @@
-**Jar2Java**
-<Br>
-Jar2Java Decompiler open source project for Android Studio, AIDE, Sketchware Pro
+# Jar2Java
+The Jar2Java application decompiles JAR files into JAVA files.
 
-**Library**
-<Br>
-This project has a local library and you can use the local library in your project.
+## Decompiler
+- [CFR Decompiler](https://github.com/Bobur-Rakhmonov/Jar2Java/blob/main/app/libs/classes.jar)
